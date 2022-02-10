@@ -56,8 +56,5 @@
 
 ;; Projectile settings.
 (setq projectile-project-search-path
-      '( "$CODE/rust/"
-         "$CODE/python/"
-         "$CODE/lisp/"
-         "$CODE/")
+      '("~/spaces/")
       projectile-sort-order 'recentf)
